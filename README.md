@@ -18,7 +18,7 @@
 
 ### Блок-схема
 
-![Блок-схема](Lab4_AlgSchema.png)
+![Блок-схема](Lab4_AlgSchema.svg)
 
 ---
 
