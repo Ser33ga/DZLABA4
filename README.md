@@ -20,6 +20,8 @@
 
 ![Блок-схема](Lab4_AlgSchema.svg)
 
+*Исходник схемы для draw.io: [Lab4_AlgSchema.drawio](Lab4_AlgSchema.drawio)*
+
 ---
 
 ## 2. Реализация программы
